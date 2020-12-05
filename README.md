@@ -1,6 +1,6 @@
 # [react-hooks]-medium-clone
 
-**React**-приложение клон сайта [angular.realworld.io/](https://angular.realworld.io/). Регистрация, логин, статьи, пагинация, редактирование статей, лайк, теги. Практика работы с _react_, _context_ и _hooks_. Смотреть на [codesandbox.io]().
+**React**-приложение клон сайта [angular.realworld.io](https://angular.realworld.io/). Регистрация, логин, статьи, пагинация, редактирование статей, лайк, теги. Практика работы с _react_, _context_ и _hooks_. Смотреть на [codesandbox.io](https://w8gpm.csb.app/).
 
 ### Быстрый старт
 
